@@ -1,4 +1,4 @@
-computing-machinery-and-intelligence
+COMPUTING MACHINERY AND INTELLIGENCE
 ====================================
 
 By Alan Turing
